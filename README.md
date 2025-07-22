@@ -1,5 +1,13 @@
 # Portfolio
-My HTML Portfolio Website
+WELCOME TO MY PORTFOLIO
+Hello my name is Josh Navarro and I am  CS student at CSUF and an aspiring Data Analyst,
+the website is fully built from HTML, but showcases a majority of skills from differing languages. 
+Including SQL, Python, and R.
 
-Hello, welcome to my portfolio, this is meannt to showcase all the projects that I have finished and are currently doing
-THANK YOU FOR VISITING
+#SQL Projects
+
+#Python Projects
+
+#R Projects
+
+THANK YOU FOR VISITING!
