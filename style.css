@@ -1,0 +1,57 @@
+
+h1, h2 {
+    text-decoration: underline;
+}
+
+nav {
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: gray;
+    color: white;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav li {
+    padding: 16px;
+    float: left;
+}
+
+body {
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white
+}
+
+intro p{
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: gray; 
+    padding: 10px; 
+    text-align: center; 
+    color: white;
+}
+
+contact ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+contact li{
+    float: left;
+    padding: 16px;
+
+}
