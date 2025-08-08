@@ -29,6 +29,11 @@ body {
     color: white
 }
 
+programs li {
+    height: 20px;
+    width: auto;
+}
+
 intro p{
     text-align: center;
 }
