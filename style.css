@@ -30,8 +30,8 @@ body {
 }
 
 programs li {
-    height: 20px;
-    width: auto;
+   width: 30px;
+   height: auto;
 }
 
 intro p{
