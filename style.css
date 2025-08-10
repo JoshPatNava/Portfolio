@@ -37,16 +37,19 @@ a {
     color: white;
 }
 
-programs{
-   text-align: center;
+.container {
+    text-align: center;
 }
 
-programs ol {
+.container ol {
     display: inline-block;
+    text-align: left;
 }
 
 intro p{
     text-align: center;
+    width: 100px;
+    height: auto;
 }
 
 footer {
