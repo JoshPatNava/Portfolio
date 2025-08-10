@@ -37,6 +37,17 @@ a {
     color: white;
 }
 
+programs {
+    text-align: center;
+}
+
+programs p {
+    width: 40%;
+    height: auto;
+    display: inline-block;
+    text-align: left;
+}
+
 .container {
     text-align: center;
 }
@@ -44,11 +55,6 @@ a {
 .container ol {
     display: inline-block;
     text-align: left;
-}
-
-programs p {
-    width: 40%;
-    height: auto;
 }
 
 intro {
