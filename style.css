@@ -46,6 +46,11 @@ a {
     text-align: left;
 }
 
+.container p {
+    width: 400px;
+    height: auto;
+}
+
 intro {
     text-align: center;
 }
@@ -53,12 +58,12 @@ intro {
 intro p{
     display:inline-block;
     text-align: left;
-    width: 300px;
+    width: 400px;
     height: auto;
 }
 
 footer {
-    position: sticky;
+    position: static;
     bottom: 0;
     width: 100%;
     background-color: gray; 
