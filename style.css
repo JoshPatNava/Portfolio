@@ -46,14 +46,19 @@ a {
     text-align: left;
 }
 
-intro p{
+intro {
     text-align: center;
-    width: 100px;
+}
+
+intro p{
+    display:inline-block;
+    text-align: left;
+    width: 300px;
     height: auto;
 }
 
 footer {
-    position: fixed;
+    position: sticky;
     bottom: 0;
     width: 100%;
     background-color: gray; 
