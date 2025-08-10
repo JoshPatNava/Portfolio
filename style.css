@@ -1,4 +1,8 @@
 
+html {
+    scroll-behavior: smooth;
+}
+
 h1, h2 {
     text-decoration: underline;
 }
@@ -29,9 +33,14 @@ body {
     color: white
 }
 
+a {
+    color: white
+}
+
 programs li {
    width: 30px;
    height: auto;
+   text-align: center
 }
 
 intro p{
