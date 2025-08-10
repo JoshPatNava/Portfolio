@@ -30,17 +30,19 @@ body {
     background-color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    color: white
+    color: white;
 }
 
 a {
-    color: white
+    color: white;
 }
 
-programs li {
-   width: 30px;
-   height: auto;
-   text-align: center
+programs{
+   text-align: center;
+}
+
+programs ol {
+    display: inline-block;
 }
 
 intro p{
