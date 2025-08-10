@@ -46,8 +46,8 @@ a {
     text-align: left;
 }
 
-.container p {
-    width: 400px;
+programs p {
+    width: 40%;
     height: auto;
 }
 
@@ -58,12 +58,11 @@ intro {
 intro p{
     display:inline-block;
     text-align: left;
-    width: 400px;
+    width: 40%;
     height: auto;
 }
 
 footer {
-    position: static;
     bottom: 0;
     width: 100%;
     background-color: gray; 
@@ -82,5 +81,4 @@ contact ul {
 contact li{
     float: left;
     padding: 16px;
-
 }
