@@ -37,17 +37,20 @@ a {
     color: white;
 }
 
-programs {
-    text-align: center;
-}
 
 programs p {
-    display: inline-block;
-    text-align: left;
     width: 40%;
     height: auto;
 }
 
+.container {
+    text-align: center;
+}
+
+.container ol {
+    display: inline-block;
+    text-align: left;
+}
 
 intro {
     text-align: center;

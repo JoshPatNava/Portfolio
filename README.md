@@ -6,11 +6,11 @@ Including SQL and R
 # SQL Projects
 
 # Python Projects
--Homeless In Hospitals:
+- Homeless In Hospitals:
     Skills:
-    -Cleaning
-    -Basic Aggregation
-    -Sorting
+    - Cleaning
+    - Basic Aggregation
+    - Sorting
 
 # Visualizations
 
