@@ -48,8 +48,7 @@ programs p {
 }
 
 .container ol {
-    width: 40%;
-    margin: 0 auto;
+    display:inline-block
 }
 
 intro {
