@@ -7,7 +7,6 @@ Including SQL and R
 
 # Python Projects
 - Homeless In Hospitals:
-    Skills:
     - Cleaning
     - Basic Aggregation
     - Sorting

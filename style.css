@@ -48,8 +48,8 @@ programs p {
 }
 
 .container ol {
-    display: inline-block;
-    text-align: left;
+    width: 40%;
+    margin: 0 auto;
 }
 
 intro {
