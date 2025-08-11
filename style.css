@@ -38,17 +38,19 @@ a {
 }
 
 
-programs p {
-    width: 40%;
-    height: auto;
-}
 
-.container {
+programs {
     text-align: center;
 }
 
-.container ol {
-    display:inline-block
+programs ol {
+    display:inline-block;
+    text-align: left;
+}
+
+programs p {
+    width: 40%;
+    height: auto;
 }
 
 intro {
