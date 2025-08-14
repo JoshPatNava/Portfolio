@@ -22,7 +22,7 @@ nav ul {
 }
 
 nav li {
-    padding: 16px;
+    padding: 8px;
     float: left;
 }
 
@@ -69,10 +69,8 @@ a {
 }
 
 footer {
-    bottom: 0;
     width: 100%;
     background-color: gray; 
-    padding: 10px; 
     text-align: center; 
     color: white;
 }
@@ -86,5 +84,5 @@ footer {
 
 .contact li{
     float: left;
-    padding: 16px;
+    padding: 8px;
 }
