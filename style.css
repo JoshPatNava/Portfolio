@@ -50,22 +50,12 @@ a {
     margin: 0;
 }
 
-.container p {
-    width: 40%;
-    height: auto;
-    text-align: center
-}
 
 intro {
     text-align: center;
     width: 100%;
 }
 
-intro p{
-    width: 40%;
-    height: auto;
-    margin: 0 auto;
-}
 
 footer {
     bottom: 0;
