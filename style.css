@@ -39,16 +39,19 @@ a {
 
 
 
-programs {
+.container {
     text-align: center;
 }
 
-
-programs p {
-    display: inline-block;
-    text-align: left;
+.container p {
+    text-align: center;
     width: 40%;
     height: auto;
+}
+.container ol {
+    display: inline-block;
+    text-align: left;
+
 }
 
 intro {
