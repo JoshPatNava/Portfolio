@@ -40,7 +40,7 @@ a {
 
 .container {
     text-align: center;
-    width: 100%
+    width: 100%;
 }
 
 .container ol {
@@ -49,9 +49,9 @@ a {
 }
 
 .container p {
-    display: inline-block;
     width: 40%;
     height: auto;
+    text-align: center
 }
 
 intro {
@@ -60,9 +60,9 @@ intro {
 }
 
 intro p{
-    display:inline-block;
     width: 40%;
     height: auto;
+    text-align:center
 }
 
 footer {
