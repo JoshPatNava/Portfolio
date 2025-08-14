@@ -38,14 +38,16 @@ a {
 }
 
 
-
 .container {
     text-align: center;
 }
 
-.container p {
+.container li {
     display: inline-block;
     text-align: left;
+}
+
+.container p {
     width: 40%;
     height: auto;
 }
@@ -55,8 +57,6 @@ intro {
 }
 
 intro p{
-    display:inline-block;
-    text-align: left;
     width: 40%;
     height: auto;
 }
