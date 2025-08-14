@@ -43,6 +43,13 @@ a {
     width: 100%;
 }
 
+.container p {
+    width: 40%;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+}
+
 .container ol {
     display: inline-block;
     text-align: left;
@@ -60,9 +67,7 @@ a {
     width: 40%;
     margin: 0 auto;
     text-align: center;
-    background-color: #f0f0f0;
 }
-
 
 footer {
     bottom: 0;
