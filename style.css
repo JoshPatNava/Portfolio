@@ -51,9 +51,16 @@ a {
 }
 
 
-intro {
+.intro {
     text-align: center;
     width: 100%;
+}
+
+.intro p {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #f0f0f0;
 }
 
 
@@ -66,14 +73,14 @@ footer {
     color: white;
 }
 
-contact ul {
+.contact ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 
-contact li{
+.contact li{
     float: left;
     padding: 16px;
 }
