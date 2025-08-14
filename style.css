@@ -37,21 +37,8 @@ a {
     color: white;
 }
 
-
-
 .container {
     text-align: center;
-}
-
-.container p {
-    text-align: center;
-    width: 40%;
-    height: auto;
-}
-.container ol {
-    display: inline-block;
-    text-align: left;
-
 }
 
 intro {
@@ -59,8 +46,6 @@ intro {
 }
 
 intro p{
-    display:inline-block;
-    text-align: left;
     width: 40%;
     height: auto;
 }
