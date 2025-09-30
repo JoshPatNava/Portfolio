@@ -37,36 +37,30 @@ body {
     color: white;
     display: flex;
     flex-direction: column;
-     min-height: 100vh;
-}
-
-Main {
-    flex: 1;
+    min-height: 100vh;
 }
 
 a {
     color: white;
-}
-
+ }
 
 .container {
     text-align: center;
     width: 100%;
 }
 
-.container p {
+.container li{
+    list-style-position: inside;
     width: 40%;
     margin: 0 auto;
     text-align: center;
 }
 
-.container ol {
-    display: inline-block;
-    text-align: left;
-    padding-left: 0; 
-    margin: 0;
+.container p{
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
 }
-
 
 .intro {
     text-align: center;
@@ -80,6 +74,7 @@ a {
 }
 
 footer {
+    bottom: 0;
     width: 100%;
     background-color: gray; 
     text-align: center; 
