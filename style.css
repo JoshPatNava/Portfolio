@@ -6,7 +6,7 @@ html {
 }
 
 h1, h2 {
-    text-decoration: underline;
+    font-weight: bold;
 }
 
 nav {
@@ -16,6 +16,8 @@ nav {
     background-color: gray;
     color: white;
     padding: 16px;
+    position: relative;
+    bottom: 100%;
 }
 
 nav ul {
@@ -26,7 +28,7 @@ nav ul {
 }
 
 nav li {
-    padding: 8px;
+    padding-right: 8px;
     float: left;
 }
 
@@ -43,21 +45,20 @@ body {
 a {
     color: white;
  }
-
+ 
 .container {
     text-align: center;
-    width: 100%;
 }
 
 .container li{
     list-style-position: inside;
-    width: 40%;
+    width: 45%;
     margin: 0 auto;
     text-align: center;
 }
 
 .container p{
-    width: 40%;
+    width: 45%;
     margin: 0 auto;
     text-align: center;
 }
@@ -68,17 +69,18 @@ a {
 }
 
 .intro p {
-    width: 40%;
+    width: 45%;
     margin: 0 auto;
     text-align: center;
 }
 
 footer {
-    bottom: 0;
     width: 100%;
     background-color: gray; 
     text-align: center; 
     color: white;
+    position: absolute;
+    top: 100%;
 }
 
 .contact ul {
