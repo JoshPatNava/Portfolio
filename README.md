@@ -1,16 +1,15 @@
 # WELCOME TO MY PORTFOLIO
 Hello my name is Josh Navarro and I am  CS student at CSUF and an aspiring Data Analyst,
-the website is fully built from HTML, but showcases a majority of skills from differing languages. 
-Including SQL and R
+the website is fully built from HTML, but showcases a majority of projects showing differing skills from differing languages. 
+Including SQL, Python, and R. Also adding some visualization in Tableau and Power BI
 
-# SQL Projects
+# DISCLAIMER
+Everything is still in progress!!!!!
 
-# Python Projects
-- Homeless In Hospitals:
-    - Cleaning
-    - Basic Aggregation
-    - Sorting
+## SQL Projects
 
-# Visualizations
+## Python Projects
+
+## Visualizations
 
 THANK YOU FOR VISITING!
