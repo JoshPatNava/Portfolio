@@ -31,7 +31,6 @@ nav ul {
 
 nav li {
     padding: 8px;
-    float: left;
 }
 
 body {
@@ -93,11 +92,12 @@ footer {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    display:flex;
+    gap:16px;
+    justify-content: center;
 }
 
 .contact li{
-    float: left;
     padding: 8px;
 }
 
