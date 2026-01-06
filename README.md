@@ -3,7 +3,9 @@ Hello my name is Josh Navarro and I am  CS student at CSUF and an aspiring Data 
 the website is fully built from HTML, but showcases a majority of skills from differing languages. 
 Including SQL and Python
 
-# Python Projects
+# Projects
+
+## Healthcare & Research Analysis
 
 - Homeless In Hospital
     - In this project I explore a dataset that displays homeless that have been admitted into the hospital.
@@ -22,8 +24,28 @@ Including SQL and Python
     - This is what I learned:
         - 
 
-# SQL Projects
+## Other Applied Porjects
 
-# Visualizations
+# Foundation
+
+## Python Practice Notebooks
+
+## SQL Exercises
+
+## Tableau Learning Dashboards
+
+## Coursework-style Mini Projects
+
+# Skills
+
+## Programming
+
+## Analysis
+
+## Statistics
+
+## Visulizations
+
+## Tools
 
 THANK YOU FOR VISITING!
