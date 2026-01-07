@@ -5,26 +5,23 @@ Including SQL and Python
 
 # Projects
 
-## Healthcare & Research Analysis
+## Healthcare & Research Analysis(Real Data)
 
 - Homeless In Hospital
     - In this project I explore a dataset that displays homeless that have been admitted into the hospital.
-    - This what I learned:
-        - 
+
+## Healthcare & Research Analysis(Synthetic Data)
+
 - ED Utilization
     - In this project I created a synthetic dataset simulating an Emergency Department, and looking at the dataset found out the what is causing the highest usage in the ED.
-    - This is what I learned:
-        - 
+
 - Preventive Care
     - In this project created a synthetic dataset
-    - This is what I learned:
-        - 
+
 - Blood Pressure
     - In this project I created a synthetic dataset
-    - This is what I learned:
-        - 
 
-## Other Applied Porjects
+## Other Applied Projects
 
 # Foundation
 
