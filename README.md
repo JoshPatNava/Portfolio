@@ -3,46 +3,4 @@ Hello my name is Josh Navarro and I am  CS student at CSUF and an aspiring Data 
 the website is fully built from HTML, but showcases a majority of skills from differing languages. 
 Including SQL and Python
 
-# Projects
-
-## Healthcare & Research Analysis(Real Data)
-
-- Homeless In Hospital
-    - In this project I explore a dataset that displays homeless that have been admitted into the hospital.
-
-## Healthcare & Research Analysis(Synthetic Data)
-
-- ED Utilization
-    - In this project I created a synthetic dataset simulating an Emergency Department, and looking at the dataset found out the what is causing the highest usage in the ED.
-
-- Preventive Care
-    - In this project created a synthetic dataset
-
-- Blood Pressure
-    - In this project I created a synthetic dataset
-
-## Other Applied Projects
-
-# Foundation
-
-## Python Practice Notebooks
-
-## SQL Exercises
-
-## Tableau Learning Dashboards
-
-## Coursework-style Mini Projects
-
-# Skills
-
-## Programming
-
-## Analysis
-
-## Statistics
-
-## Visulizations
-
-## Tools
-
 THANK YOU FOR VISITING!
